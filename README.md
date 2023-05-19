@@ -1,4 +1,4 @@
-# template-public-distribution-repo
+# Old-School Essentials: Advanced Fantasy for Foundry VTT
 
 ## Where to Purchase Premium Content
 
