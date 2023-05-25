@@ -2,7 +2,7 @@
 
 ## Where to Purchase Premium Content
 
-Check out the full selection of premium modules at the [publisher page]()
+Check out the full selection of [Necrotic Gnome content for Foundry VTT](https://www.drivethrurpg.com/browse/pub/5606/Necrotic-Gnome?filters=0_0_0_45317_0&src=fid45317&affiliate_id=1488516)
 
 ## Troubleshooting and Requesting User Support
 
